@@ -42,3 +42,5 @@ const cartItems = [
     amount: 1,
   },
 ]
+
+export default cartItems;
